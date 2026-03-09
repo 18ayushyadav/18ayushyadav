@@ -10,7 +10,7 @@
 * 🌱 Currently learning **Flutter, Django, DBMS & Data Structures**
 * 💡 Love building **useful tech projects and automation tools**
 * 🤝 Looking to collaborate on **Web Apps, AI Chatbots, and Innovative Projects**
-* ⚡ Fun fact: **Science > Superstition 🧠**
+* ⚡ Fun fact: I enjoy building useful tech projects and exploring new technologies 🚀
 
 ---
 
