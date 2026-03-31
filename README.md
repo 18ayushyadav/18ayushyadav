@@ -18,6 +18,7 @@
 
 ![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge\&logo=c)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Full_Stack-black?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-blue?style=for-the-badge\&logo=flutter)
 ![Django](https://img.shields.io/badge/Django-Web_Framework-green?style=for-the-badge\&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge\&logo=mysql)
